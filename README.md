@@ -50,8 +50,8 @@ I'm currently investing in the world of programming because I've always enjoyed 
 <h3 align=center>About</h3>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mthgarcia&show_icons=true&theme=midnight-" alt="Matheus Garcia github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTHGARCIA&layout=compact&theme=midnight-" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mthgarcia&show_icons=true&theme=midnight-purple" alt="Matheus Garcia github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTHGARCIA&layout=compact&theme=midnight-purple" />
 </div><br>
 
 
