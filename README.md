@@ -47,11 +47,10 @@ I'm currently investing in the world of programming because I've always enjoyed 
 ⬛ My passion for developing and improving code and projects is endless. My mind is constantly overflowing with brilliant ideas, generating a flood of suggestions and improvements to projects.
 </p>
 
-<h3 align=center>About</h3>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mthgarcia&show_icons=true&theme=midnight-purple" alt="Matheus Garcia github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTHGARCIA&layout=compact&theme=midnight-purple" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mthgarcia&show_icons=true&theme=midnight-" alt="Matheus Garcia github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTHGARCIA&layout=compact&theme=midnight-" />
 </div><br>
 
 
@@ -68,7 +67,9 @@ I'm currently investing in the world of programming because I've always enjoyed 
     <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
     <img align="center" alt="Spring" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
      <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
-       
+       <h3 align=center>RoadMap</h3>
+
+<h5 align=center>[Java - Roadmap] (https://roadmap.sh/u/mthgarcia)</h3>
   </div>
 </div><br>
 
